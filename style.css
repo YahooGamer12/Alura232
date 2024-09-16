@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="assets/style.css">
+body {
+    background-color: blue;
+}
+footer {
+    background-color: black;
+    color: white;
+}
+footer {
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+}
